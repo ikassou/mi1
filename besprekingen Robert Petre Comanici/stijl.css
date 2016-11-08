@@ -1,0 +1,86 @@
+
+        
+        body {
+            
+            font-family: serif, sans-serif;
+            color: aliceblue;
+            background-color: aliceblue;
+            padding: 2em;
+            margin: 2em;
+            border: solid;
+            border-color: cadetblue;
+            border-radius: 2em 2em 2em 2em;
+            
+        }
+        
+        
+        h1 {
+            font-family: monospace;
+            text-align: center;
+            font-size: 2em;
+            text-transform: uppercase;
+            color: cadetblue;
+            
+
+        }
+
+
+
+ 
+        
+        h2, h3 {
+            
+            font-family: arial, helvetica, serif, sans-serif;
+            text-align: center;
+            font-size: 1.3em;
+            color: aliceblue;
+            background-color: cadetblue;
+            margin-top: 3em;
+           
+            
+            
+            
+        }
+        
+        p {
+            font-family: arial, helvetica, serif, sans-serif;
+            text-align: left;
+            text-indent: 0%;
+            color: cadetblue;
+            
+            
+    
+            
+            
+        }
+
+
+      ul {
+    
+            text-align: left;
+            text-indent: 0%;
+            color: cadetblue;
+    
+    
+}
+
+     img {  
+         
+            border: solid 3px;
+            border-color: cadetblue;
+          
+          
+
+
+}
+
+
+label {
+    
+    color:cadetblue;
+    font-family: arial, helvetica, serif, sans-serif;
+}
+        
+
+    
+  
